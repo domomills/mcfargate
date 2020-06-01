@@ -1,0 +1,6 @@
+[
+  {
+    "name": "minecraft-server",
+    "imageUri": "227374077629.dkr.ecr.us-west-2.amazonaws.com/mcfargate:latest"
+  }
+]
