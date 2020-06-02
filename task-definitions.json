@@ -45,6 +45,10 @@
         {
           "name": "MODE",
           "value": "creative"
+        },
+        {
+          "name": "MEMORY",
+          "value": "1.8G"
         }
       ],
       "resourceRequirements": null,
