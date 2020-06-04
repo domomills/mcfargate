@@ -41,7 +41,7 @@
         },
         {
           "name": "MEMORY",
-          "value": "1.8G"
+          "value": "1G"
         }
       ],
       "mountPoints": [
